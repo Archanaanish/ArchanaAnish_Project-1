@@ -60,12 +60,13 @@ span{
 }
 #content1{
     background:#7a6f61 ;
-    height:200px;
+    height:178px;
     margin-top: -4px;
     border-bottom-right-radius: 90px;
     text-align: center;
     color: white;
     padding:10px;
+    
 }
 #title{
     font-size: 30px;
