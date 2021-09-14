@@ -8,8 +8,7 @@ body{
 }
     .container{
       
-       margin-top: 50px;
-       margin-bottom: 50px;
+      
       
       
      
@@ -116,13 +115,9 @@ button{
       padding:15px;
       padding-top: 40px;
       margin-left: 50px;
-     
-     
+     color: white;
       
-      
-      color: white;
-      
-  }
+       }
      .text h3,h5{
       background: #7a6f61;
       width:70%;
