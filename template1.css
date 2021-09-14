@@ -1,0 +1,158 @@
+*{
+    box-sizing: border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+body{
+    background: #7a6f61;
+   
+}
+    .container{
+      
+       margin-top: 50px;
+       margin-bottom: 50px;
+       margin-left: 50px;
+       margin-right:50px;
+      
+       
+       padding-left: 10px;
+       padding-right: 10px;
+      
+     
+      background: white;
+     
+    } 
+   .navbar{
+      padding-left: 280px;
+      padding-right: 280px;
+   }
+
+.navbar #home, #items{
+    float: left;
+    height: 60px;
+    width:15%;
+    margin-right: 5%;
+    padding-top: 30px;
+    padding-left: 40px;;
+     font-size: 17px;
+   
+
+   }
+   
+#home{
+   background: #CDDC39;
+   color: white;
+  
+}
+.clearfix{
+    clear:left;
+}
+#items{
+    color:gray;
+}
+.heading{
+     text-align: center;
+}
+.heading{
+    font-size: 120px;
+    color:  #7a6f61;
+}
+span{
+    color:  #CDDC39;
+}
+.columns{
+    background-color:  #CDDC39 ;
+    height: 600px;
+}
+#content1{
+    background:#7a6f61 ;
+    height:200px;
+    margin-top: -4px;
+    border-bottom-right-radius: 90px;
+    text-align: center;
+    color: white;
+    padding:10px;
+}
+#title{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    padding-top:66px;
+}
+.details h2{
+    font-size: 40px;
+    color: #7a6f61;
+}
+ul li{
+    list-style:square;
+    padding:2px;
+    color: #7a6f61;
+  
+    
+}
+
+   
+
+.details h4{
+    font-size :25px;
+    color: #CDDC39;
+    font-weight:lighter;
+}
+.details p{
+    color: #7a6f61;
+}
+button{
+    color:white;
+    background: #7a6f61;
+    padding:10px;
+}
+
+  #one{
+      float: left;
+  }
+  #two{
+      float: left;
+  }
+  .number{
+      width:70px;
+      height:150px;
+      background: #CDDC39;
+      font-size: 45px;
+      float: left;
+      padding:15px;
+      padding-top: 40px;
+      margin-left: 50px;
+     
+     
+      
+      
+      color: white;
+      
+  }
+     .text h3,h5{
+      background: #7a6f61;
+      width:70%;
+      height:150px;
+      float: left;
+      margin-top: 28px;
+      padding:20px;
+      color:gainsboro;
+      padding-bottom: 130px;
+     
+
+      
+     
+  }
+  #text{
+      font-size: 25px;
+      font-weight: lighter;
+  }
+  .footer{
+      text-align: center;
+      font-size: 19px;
+      color: gray;
+      padding-bottom: 16px;
+      
+  }
+  hr{
+      color:lightgray;
+  }
